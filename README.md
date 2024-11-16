@@ -2,8 +2,6 @@
 Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A motivated frontend developer skilled in HTML, CSS, and JavaScript, currently expanding expertise by learning Node.js, React, and Tailwind CSS to build modern and efficient web applications.
 <br><br>🌱 **I’m currently learning:**  <br>Next Js, React and Tailwind.<br><br> 👨‍💻 **I'm currently developing:** <br>Multiple web development projects, including e-commerce platforms and organizational websites. I’ll publish my repos once it gets ready.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxdth&label=Profile%20views&color=0e75b6&style=flat" alt="oxdth" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxdth" alt="oxdth" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ritikmohapatra4" target="blank"><img src="https://img.shields.io/twitter/follow/ritikmohapatra4?logo=twitter&style=for-the-badge" alt="ritikmohapatra4" /></a> </p>
@@ -27,3 +25,6 @@ Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A motivated frontend developer ski
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxdth&show_icons=true&locale=en" alt="oxdth" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxdth&" alt="oxdth" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oxdth&label=Profile%20views&color=0e75b6&style=flat" alt="oxdth" /> </p>
