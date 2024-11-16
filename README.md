@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ritik Mohapatra aka DTH</h1>
-<h3 align="center">A motivated frontend developer skilled in HTML, CSS, and JavaScript, currently expanding expertise by learning Node.js, React, and Tailwind CSS to build modern and efficient web applications.</h3>
+# 💫 About Me:
+Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A motivated frontend developer skilled in HTML, CSS, and JavaScript, currently expanding expertise by learning Node.js, React, and Tailwind CSS to build modern and efficient web applications.
+<br><br>🌱 **I’m currently learning:**  <br>Next Js, React and Tailwind.<br><br> 👨‍💻 **I'm currently developing:** <br>Multiple web development projects, including e-commerce platforms and organizational websites. I’ll publish my repos once it gets ready.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxdth&label=Profile%20views&color=0e75b6&style=flat" alt="oxdth" /> </p>
 
