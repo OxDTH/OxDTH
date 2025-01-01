@@ -24,7 +24,7 @@ Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A motivated frontend developer ski
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oxdth&show_icons=true&locale=en&theme=dark&hide" alt="oxdth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxdth&theme=dark&hide" alt="oxdth" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxdth&theme=dark&hide" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oxdth&label=Profile%20views&color=0e75b6&style=flat" alt="oxdth" /> </p>
