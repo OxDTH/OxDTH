@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A motivated frontend developer skilled in HTML, CSS, and JavaScript, currently expanding expertise by learning Node.js, React, and Tailwind CSS to build modern and efficient web applications.
-<br><br>🌱 **I’m currently learning:**  <br>Next Js, React and Tailwind.<br><br> 👨‍💻 **I'm currently developing:** <br>Multiple web development projects, including e-commerce platforms and organizational websites. I’ll publish my repos once it gets ready.
+Hi 👋, I'm Ritik Mohapatra aka DTH <br><br> A frontend developer skilled in React, Tailwind CSS, HTML, CSS, JavaScript, Next Js, Typescript. currently expanding expertise by learning backend to build modern and efficient web applications.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oxdth" alt="oxdth" /></a> </p>
 
